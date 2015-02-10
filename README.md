@@ -2,7 +2,7 @@
 Resume
 I love :indoor rock climbing:, :skydiving:, :coding:.
 I love :dogs:, :cars:, :movies:.
-@@ -0,0 +1,4 @@
+@@ -0,0 +1,74 @@
 +# David Hamp-Gonsalves
 +## Senior Developer & Problem Solver
 +
